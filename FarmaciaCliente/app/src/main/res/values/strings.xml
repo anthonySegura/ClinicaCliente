@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FarmaciaCliente</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registro">Registrarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="ok">Aceptar</string>
+    <string name="RegistroTitle">Registrarse</string>
+    <string name="MensajeCarga">Verificando datos</string>
+    <string name="Error_conexion">Error de conexion</string>
+    <string name="Datos_incorrectos">Nombre de usuario o contraseña incorrecta</string>
+    <string name="Faltan_Datos">Todos los campos son necesarios</string>
+    <string name="NombreMedicamen">Nombre : </string>
+    <string name="DescripcionMedicamento">Descripcion : </string>
+    <string name="CantidadMedicamento">Cantidad : </string>
+    <string name="PrecioMedicamento">Precio : </string>
+</resources>
