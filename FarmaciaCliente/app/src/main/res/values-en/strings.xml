@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrugStoreClient</string>
+    <string name="CantidadMedicamento">Quantity :</string>
+    <string name="Datos_incorrectos">Wrong username or password</string>
+    <string name="DescripcionMedicamento">Description :</string>
+    <string name="Error_conexion">Connection error</string>
+    <string name="Faltan_Datos">All spaces need to be complete</string>
+    <string name="MensajeCarga">Verifying data</string>
+    <string name="NombreMedicamen">Name :</string>
+    <string name="PrecioMedicamento">Price :</string>
+    <string name="RegistroTitle">Sign up</string>
+    <string name="contra">Password</string>
+    <string name="ingresar">Sign in</string>
+    <string name="nombre">Name</string>
+    <string name="nombre_usuario">Username</string>
+    <string name="ok">Ok</string>
+    <string name="registro">Sign up</string>
+    <string name="telefono">Telephone</string>
+</resources>
