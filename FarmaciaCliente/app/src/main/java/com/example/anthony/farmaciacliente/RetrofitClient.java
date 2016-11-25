@@ -32,6 +32,12 @@ public interface RetrofitClient {
     Call<List<Medicina>> cargarMedicinas();
 
 
+    @GET("GetStatus")
+    Call<StatusResponse> comprobarCambios();
+
+    @GET("SetStatus")
+    Call<Object> mandarCambio();
+
     //Metodos POST
 
     @FormUrlEncoded
